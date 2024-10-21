@@ -1,2 +1,3 @@
 # LeanAutomation
-LeanGit
+LeanGit, this page is very important to my setting
+
